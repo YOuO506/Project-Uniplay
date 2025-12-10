@@ -47,3 +47,8 @@ Project-UniPlay
 
 ## 개발 목적
 Unity 게임과 웹 시스템, 데이터베이스를 하나의 플랫폼으로 연동하는 구조를 직접 설계하고 구현하는 것을 목표로 진행한 프로젝트입니다.
+
+---
+
+## 📄 프로젝트 정리 문서
+- [UniPlay 프로젝트 PPT 정리본](./Docs/Project_UniPlay_Overview.pptx)
