@@ -33,10 +33,12 @@ Unity/
 
 ---
 
-## 🖥 실행 환경
+## 🛠 개발 환경
 
-- Unity 2022 LTS
-- C# 기반 스크립트
+- OS : Windows 10
+- Game Engine : Unity 2022 LTS
+- IDE : Visual Studio 2022
+- Language : C#
 
 ---
 
