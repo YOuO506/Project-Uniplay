@@ -71,3 +71,23 @@ Web/
 - 웹 로그인 계정과 Unity 게임 계정 통합
 - 웹에서 구매한 아이템 정보 Unity 클라이언트로 전달
 - 게임 플레이 결과(점수, 코인) 웹 서버 및 DB 저장
+
+---
+
+## 📸 웹 실행 화면
+
+- 메인 페이지
+<img width="1017" height="908" alt="웹 디폴트" src="https://github.com/user-attachments/assets/6218bc5a-6c78-4408-b0a9-36367d252a5c" />
+
+- 로그인 페이지
+<img width="1018" height="903" alt="웹 로그인" src="https://github.com/user-attachments/assets/da619ced-4ae6-4879-88bf-3480b3ccdc60" />
+
+- 랭킹 페이지
+<img width="1017" height="905" alt="웹 랭킹" src="https://github.com/user-attachments/assets/3a7a2e1e-1fb7-45cc-9bc8-b02a18fa2838" />
+
+- 아이템 상점
+<img width="1001" height="906" alt="웹 상점" src="https://github.com/user-attachments/assets/22854270-d361-40a1-87f8-90c246b5aec5" />
+
+- 커뮤니티 게시판
+<img width="1014" height="905" alt="웹 커뮤니티" src="https://github.com/user-attachments/assets/573604dc-a7ce-4cf8-aa0b-91d054d3eda9" />
+<img width="1017" height="903" alt="웹 커뮤니티 댓글 좋아요" src="https://github.com/user-attachments/assets/6ce3935b-2293-41df-8480-75729242fb27" />
