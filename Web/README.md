@@ -38,13 +38,20 @@ Unity 기반 미니게임과 하나의 계정 시스템으로 연동되는 웹 �
 ## 📁 프로젝트 구조
 
 Web/  
-├─ App_Code            : 공통 클래스 및 서버 로직  
-├─ MasterPage.master  : 전체 레이아웃  
-├─ Login.aspx         : 로그인  
-├─ Store.aspx         : 아이템 상점  
-├─ Ranking.aspx       : 랭킹  
-├─ Notice.aspx        : 공지사항  
-└─ Community.aspx     : 커뮤니티  
+├─ Api/                 : Unity와 통신하는 API 페이지 모음  
+├─ CommunityImages/     : 커뮤니티 게시글에 업로드된 이미지  
+├─ Images/              : 웹 사이트 공통 이미지 리소스  
+├─ Uploads/             : 기타 업로드 파일 저장 폴더  
+├─ fonts/               : 웹 폰트 파일  
+├─ Properties/          : 프로젝트 설정 (AssemblyInfo 등)  
+├─ Global.asax          : 애플리케이션 시작/종료 이벤트 처리  
+├─ MasterPage.Master    : 전체 레이아웃 및 공통 메뉴  
+├─ Default.aspx         : 메인 페이지  
+├─ Login.aspx           : 로그인 페이지  
+├─ Ranking.aspx         : 게임 랭킹 페이지  
+├─ AdminItems.aspx      : 관리자용 아이템 관리 페이지  
+├─ Notice*.aspx         : 공지사항 목록/상세/작성/수정 페이지  
+└─ Community*.aspx      : 커뮤니티 목록/상세/작성/수정 페이지  
 
 ---
 
