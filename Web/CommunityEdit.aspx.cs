@@ -105,7 +105,7 @@ namespace UniPlayWebSite
                 }
             }
 
-            // 권한 재확인 (이중 방어)
+            // 권한 재확인
             string me = (CurrentUserID ?? "").Trim();
             string author = (hdnAuthorID.Value ?? "").Trim();
             bool isAdmin = (CurrentUGrade == 1);
