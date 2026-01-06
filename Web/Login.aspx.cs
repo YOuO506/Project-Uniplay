@@ -53,7 +53,7 @@ namespace UniPlayWebSite
                 else
                 {
                     lblResult.Text = "아이디 또는 비밀번호가 틀렸습니다.";
-                    Session.Clear();  // ← 이거 반드시 추가해
+                    Session.Clear();
                 }
 
                 reader.Close();
